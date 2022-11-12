@@ -11,3 +11,4 @@ openpyxl==3.0.10
 Pillow==9.2.0
 plotly==5.10.0
 neuralprophet==0.3.2
+streamlit-option-menu==0.3.2
