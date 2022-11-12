@@ -1,0 +1,13 @@
+ipython==8.5.0
+numpy==1.23.0
+pandas==1.4.3
+PuLP==2.6.0
+pymongo==4.2.0
+pyodbc==4.0.34
+scikit_learn==1.1.2
+pymongo==4.2.0
+streamlit==1.13.0
+openpyxl==3.0.10
+Pillow==9.2.0
+plotly==5.10.0
+neuralprophet==0.3.2
